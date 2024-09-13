@@ -6,6 +6,15 @@ function getAllusers(req,res){
         
     }
 }
+function getUsers(req,res){
+    try {
+        let id = parseInt(req.params.id)
+        let user = users.find((user)=> user.id == id )
+    } catch (err) {
+        
+    }
+}
 module.exports = {
-    getAllusers
+    getAllusers,
+    getUsers
 }
