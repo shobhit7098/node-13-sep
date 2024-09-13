@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Marget",
+    "last_name": "Theodore",
+    "email": "mtheodore0@hhs.gov",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 2,
+    "first_name": "Rudolph",
+    "last_name": "Verty",
+    "email": "rverty1@mac.com",
+    "gender": "Male",
+    "salary": 13000
+  },
+  {
+    "id": 3,
+    "first_name": "Hobey",
+    "last_name": "Baynom",
+    "email": "hbaynom2@yale.edu",
+    "gender": "Male",
+    "salary": 15000
+  },
+  {
+    "id": 4,
+    "first_name": "Shanon",
+    "last_name": "Elizabeth",
+    "email": "selizabeth3@freewebs.com",
+    "gender": "Female",
+    "salary": 22000
+  },
+  {
+    "id": 5,
+    "first_name": "Sianna",
+    "last_name": "Glassborow",
+    "email": "sglassborow4@epa.gov",
+    "gender": "Female",
+    "salary": 25000
+  },
+  {
+    "id": 6,
+    "first_name": "Timotheus",
+    "last_name": "Dollard",
+    "email": "tdollard5@mac.com",
+    "gender": "Male",
+    "salary": 23000
+  },
+  {
+    "id": 7,
+    "first_name": "Petronille",
+    "last_name": "Clabburn",
+    "email": "pclabburn6@booking.com",
+    "gender": "Female",
+    "salary": 20000
+  },
+  {
+    "id": 8,
+    "first_name": "Mehetabel",
+    "last_name": "Genike",
+    "email": "mgenike7@nasa.gov",
+    "gender": "Genderfluid",
+    "salary": 30000
+  },
+  {
+    "id": 9,
+    "first_name": "Kay",
+    "last_name": "Cavanaugh",
+    "email": "kcavanaugh8@networkadvertising.org",
+    "gender": "Female",
+    "salary": 40000
+  },
+  {
+    "id": 10,
+    "first_name": "Jeanette",
+    "last_name": "Borland",
+    "email": "jborland9@oakley.com",
+    "gender": "Female",
+    "salary": 18000
+  }
+]
